@@ -1,0 +1,17 @@
+#newPost {
+    background-color: green;
+    color: white;
+    width: 140px;
+    padding: 10px;
+    border-radius: 5%;
+    font-size: 15px;
+    
+    
+}
+#dropDown {
+    
+}
+
+#logOut {
+    color: red;
+}
