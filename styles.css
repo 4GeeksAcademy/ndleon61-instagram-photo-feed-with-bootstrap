@@ -70,3 +70,8 @@ h4 {
 .post-likes{
     margin-bottom: 0%;
 }
+.change-view-btn{
+    color: gray;
+    text-decoration: none;
+    margin-right: 10px;
+}
