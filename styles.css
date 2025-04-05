@@ -51,15 +51,22 @@ h4 {
 }
 .body-post {
     padding: 10px;
+    
 }
 #modal-input{
-    width: 450px;
+    width: 100%;
     height: auto;
     margin-bottom: 20px;
+    
 }
 .btn-modal{
     background: lightgray;
     border: none;
     border-radius: 5px;
     margin-left: 5px;
+    margin-top: 10px;
+    width: 26px;
+}
+.post-likes{
+    margin-bottom: 0%;
 }
